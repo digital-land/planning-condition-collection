@@ -1,9 +1,9 @@
-# XXX collection
+# planning-condition collection
 
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/XXX/blob/main/LICENSE)
-[![Run pipeline](https://github.com/digital-land/XXX-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/XXX-collection/actions/workflows/run.yml)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/planning-condition-collection/blob/main/LICENSE)
+[![Run pipeline](https://github.com/digital-land/planning-condition-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/planning-condition-collection/actions/workflows/run.yml)
 
-The data and pipeline to build the [XXX dataset](https://www.digital-land.info/dataset/XXX).
+The data and pipeline to build the [XXX dataset](https://www.digital-land.info/dataset/planning-condition).
 
 # Collection
 
